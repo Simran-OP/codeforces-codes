@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.ejs": "html",
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "terminal.explorerKind": "external",
+    "java.debug.settings.console": "externalTerminal"
+}
